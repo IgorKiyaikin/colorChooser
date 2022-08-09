@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.23)
-project(colorChooser C)
+cmake_minimum_required(VERSION 3.18)
+project(colorChooser VERSION 1.0)
 
 set(CMAKE_C_STANDARD 11)
 FIND_PACKAGE(PkgConfig REQUIRED)
